@@ -9,4 +9,6 @@ My main programming abilities:
 - SQL and NoSQL
 - PowerBI
 
+- Knowledge in AWS platform
+
 [Linkedin](https://www.linkedin.com/in/gabriel-figa/)
